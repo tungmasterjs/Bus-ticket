@@ -1,0 +1,7 @@
+@charset "ISO-8859-1";
+.cursor{
+	cursor:pointer;
+}
+.error{
+	color: #dc3545 !important;
+}
